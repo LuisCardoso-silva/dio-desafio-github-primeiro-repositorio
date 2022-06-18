@@ -12,3 +12,17 @@
 
 </body> Finalizar a tag.
 
+## Semântica
+
+<section> Representa a seção genérica de conteúdo.
+
+<header> Representa o cabeçalho da página ou de uma seção da página.
+
+<article> Representa um conteúdo importante da página como um artigo de uma página.
+
+<aside> Representa um conteúdo relacionado ao conteúdo principal da página, como uma biografia do autor ou links relacionados.
+
+<footer> O rodapé da página ou de uma section, article ou aside.
+
+<h1> até o <h6> Usados para nomear os títulos de uma página.
+
