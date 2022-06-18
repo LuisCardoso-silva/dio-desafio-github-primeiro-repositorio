@@ -1,3 +1,5 @@
 Link para dawnload do Git: mttps://git-se.com/downloads
 
 o Git Bash é um terminal extendido para otimizar o uso do Git.
+
+concluindo o cursos de Git/Gitgub do Santander Bootcamp Fullstack Developer no dia 18/06/2022.
