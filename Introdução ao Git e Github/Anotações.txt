@@ -1,0 +1,3 @@
+Link para dawnload do Git: mttps://git-se.com/downloads
+
+o Git Bash é um terminal extendido para otimizar o uso do Git.
