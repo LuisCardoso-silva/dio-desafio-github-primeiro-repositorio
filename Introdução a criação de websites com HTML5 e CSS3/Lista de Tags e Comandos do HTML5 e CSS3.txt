@@ -1,0 +1,14 @@
+<!DOCTYPE html> Serve para indicar ao computador, o tipo de documento.
+
+<html> Tag para dar início ao documento html.
+
+</html> Tag para finalizar o documento html. (todas as tags com a "/", indicam o final da tag).
+
+<head> Tag que indica a parte "cabeça" da página, a programação que vai acontecer nos bastidores.
+
+</head> Tag para finalizar o Head.
+
+<body> Tag para o "corpo" do site, tudo aquilo que pode ser vizualizado na página.
+
+</body> Finalizar a tag.
+

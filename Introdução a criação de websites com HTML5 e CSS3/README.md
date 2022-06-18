@@ -1,1 +1,3 @@
-# Anotações Sobre o Conteúdo de Html5 e CSS3
+# Anotaï¿½ï¿½es Sobre o Conteï¿½do de Html5 e CSS3
+
+Adicionado arquivo com lista de comandos e tags para utilizar no html.
