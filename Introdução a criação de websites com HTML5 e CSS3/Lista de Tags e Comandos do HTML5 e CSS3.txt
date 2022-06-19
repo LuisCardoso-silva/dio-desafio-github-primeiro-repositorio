@@ -26,3 +26,32 @@
 
 <h1> até o <h6> Usados para nomear os títulos de uma página.
 
+## Tags de Texto
+
+<h1>Título da página</h1>
+
+<h2>Título da seção</h2>
+
+<h3>Título de artigo</h3>
+
+<p>Conteúdo do artigo</p>
+
+## Tags de Lins
+
+<a>Link</a>  Ancora para links, assim interligando vários conteúdos na web.
+
+<a href="...">link</a> Hiperlink para onde a âncora aponta.
+
+<a target="_blank">link</a> O target serve para nos indicar como o link será aberto, o _blank diz para abrir o link numa nova página.
+
+<a href="mailto:email@exemplo.com">mensagem de email</a> Serve para colocar um link direto para o envio de emails.
+
+<a href="tel:+número de telefone">mensagem de telefone</a> Serve para colocar um link de chamada de telefone.
+
+## Imagens
+
+<img> A tag img serve para adicionar imagens na página web, ela não precisa de tag de fechamento.
+
+<img src="img/exemplo.jpg"> O source é obrigatório e guar o caminho da imagem, pode ser dentro do próprio site ou de outro lugar.
+
+<img alt="Foto de usuário"> O elemento alt não é obrigatório, mas é altamente recomendádo pois mostra a descrição da foto quando ela não é carregada
