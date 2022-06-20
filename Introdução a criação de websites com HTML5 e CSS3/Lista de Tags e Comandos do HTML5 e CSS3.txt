@@ -54,4 +54,13 @@
 
 <img src="img/exemplo.jpg"> O source é obrigatório e guar o caminho da imagem, pode ser dentro do próprio site ou de outro lugar.
 
-<img alt="Foto de usuário"> O elemento alt não é obrigatório, mas é altamente recomendádo pois mostra a descrição da foto quando ela não é carregada
+<img alt="Foto de usuário"> O elemento alt não é obrigatório, mas é altamente recomendádo pois mostra a descrição da foto quando ela não é carregada.
+
+## Tags de listas
+
+<ul> Representa uma lista onde a ordem dos itens não importante. exemplo: Item 1, Item 2.
+
+<ol> Representa uma onde a ordem dos itens importa, são representatos com letras, números ou augarismos romanos.
+
+<li> É o item dessas listas.
+
